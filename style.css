@@ -1,0 +1,29 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.names{
+    background-color: blanchedalmond;
+    width:15%;
+}
+table,tr,td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    height:45px;
+}
+table{
+    width:90%;
+    margin:2% 5% 5% 5%;
+}
+
+#photo{
+    width:15%;
+}
+
+#heading{
+    text-align: center;
+    font-size:26px;
+    text-decoration: underline;
+}
